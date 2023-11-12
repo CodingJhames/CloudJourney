@@ -36,4 +36,4 @@
    - [ ] Utilize tools like AWS CloudWatch or Prometheus.
 
 ### 10. **Real-world Projects:**
-   - [ ] Pair programming
+   
